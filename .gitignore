@@ -1,0 +1,17 @@
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+.venv
+*.egg-info
+.DS_Store
+.env
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# other project specific
+/.git
+legacy-app.py
+.python-version
