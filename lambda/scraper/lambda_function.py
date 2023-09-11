@@ -22,6 +22,11 @@ def handler(event=None, context=None):
     options.add_argument("--remote-debugging-port=9222")
 
     chrome = webdriver.Chrome(options=options, service=service)
-    chrome.get("https://example.com/")
+    chrome.get("https://practicetestautomation.com/practice-test-login/")
+    chrome.find_element(By.ID, "username").send_keys("student")
+    chrome.find_element(By.ID, "password").send_keys("Password123")
+    chrome.find_element(By.ID, "submit").click()
+    result = chrome.find_element(By.CLASS_NAME, "post-title").text
 
-    return chrome.find_element(by=By.XPATH, value="//html").text
+    return result
+
