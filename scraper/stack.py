@@ -14,7 +14,7 @@ class ScraperStack(Stack):
             id="SeleniumScraperFunctionTest",
             code=aws_lambda.DockerImageCode.from_image_asset("lambda/scraper"),
             memory_size=2048,
-            timeout=Duration.minutes(5),
+            timeout=Duration.minutes(4),
         )
 
         # Add event to trigger Lambda
