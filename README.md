@@ -86,12 +86,12 @@ Configuration prequisites:
 
 1. Clone the repo to your local directory
 ```sh
-$ git clone https://github.com/rdarneal/aws-lambda-python-selenium-cdk-template.git
+$ git clone https://github.com/HoYoung1/aws-lambda-python313-selenium-cdk-template.git
 ```
 
 2. Navigate to the new directory
 ```sh
-$ cd aws-lambda-python-selenium-cdk-template
+$ cd aws-lambda-python313-selenium-cdk-template
 ```
 
 3. Create a new virtual environemnt called `.venv` with python at the top level
@@ -178,15 +178,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/rdarneal/aws-lambda-python-selenium-cdk-template](https://github.com/rdarneal/aws-lambda-python-selenium-cdk-template)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -202,3 +193,8 @@ Project Link: [https://github.com/rdarneal/aws-lambda-python-selenium-cdk-templa
 [python-url]: https://python.org
 [Docker-url]: https://docker.com
 [aws-url]:https://aws.amazon.com
+
+
+
+<!-- ORIGINAL REPOSITORY  -->
+https://github.com/rdarneal/aws-lambda-python-selenium-cdk-template.git
