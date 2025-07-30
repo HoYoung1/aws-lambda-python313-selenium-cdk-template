@@ -1,3 +1,11 @@
+<!-- UPSTREAM REPOSITORY -->
+https://github.com/rdarneal/aws-lambda-python-selenium-cdk-template.git
+
+
+This project is a fork from the upstream repository with only one change: **Python 3.11 → 3.13 migration**. All other content remains identical to the original work.
+
+**Special thanks to the original author for their excellent work! 🙏**
+
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -194,7 +202,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Docker-url]: https://docker.com
 [aws-url]:https://aws.amazon.com
 
+<!-- THANK YOU MESSAGE -->
+## 🙏 Special Thanks
 
+A huge shoutout to the original creator and the open-source community! This template has been incredibly helpful for getting started with serverless web automation on AWS. 
+
+**To the original author:** Your work has made countless developers' lives easier. Thank you for sharing your knowledge and building something that others can learn from and build upon! 🚀
+
+---
 
 <!-- ORIGINAL REPOSITORY  -->
 https://github.com/rdarneal/aws-lambda-python-selenium-cdk-template.git
