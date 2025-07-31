@@ -1,8 +1,9 @@
 <!-- UPSTREAM REPOSITORY -->
 https://github.com/rdarneal/aws-lambda-python-selenium-cdk-template.git
 
+## About This Project
 
-This project is a fork from the upstream repository with only one change: **Python 3.11 → 3.13 migration**. All other content remains identical to the original work.
+This project is a clone from the upstream repository with only one change: **Python 3.11 → 3.13 migration**. All other content remains identical to the original work.
 
 **Special thanks to the original author for their excellent work! 🙏**
 
